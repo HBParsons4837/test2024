@@ -1,0 +1,205 @@
+Body{
+	padding: 200px;
+	margin: 0;
+	margin-bottom: 200px;
+}
+
+div {
+	margin: 0;
+	float: left;
+	margin-right: 20px;
+	text-align: justify;
+	font-family: "Josefin Slab", serif;
+	color: black;
+	font-weight: 100px;
+	font-size: 3em;
+	line-height: 70px;
+}
+
+a {
+	text-decoration: none; 
+	color: black;
+}
+
+p {
+	color:mediumblue;
+}
+
+
+.a-wing-chair-in-bottle-green:hover {
+	background: olivedrab;
+    font-weight:700;
+    font-style: oblique;
+}
+
+.grey-metal-filing-cabinets:hover {
+	background: goldenrod;
+    font-style: italic;
+    color: dodgerblue;
+
+}
+
+.light-wooden-card-index-boxes:hover {
+	background:azure;
+    font-size:smaller;
+}
+
+.swedish-lamp:hover {
+	color: lemonchiffon;
+    background-color: lightpink;
+
+}
+
+.ultramarine-velvet:hover {
+	 color: lightskyblue;
+    background: darkblue;
+    font-style: italic;
+
+}
+
+.cushions-colors:hover {
+	    color:darkgoldenrod;
+	    font-style: oblique;
+
+}
+
+.red-curtain:hover {
+	 color: darkred;
+    background: orangered;
+    font-style: oblique;
+
+}
+
+.oiled-wood-ladder:hover {
+	color: sandybrown;
+    background:saddlebrown;
+    font-style: oblique;
+
+}
+
+.a-brass-rail:hover {
+	color: darkorange;
+    font-style: italic;
+    font-size:larger;
+
+}
+
+.servitudes:hover {
+	color: darkgray;
+	font-style: oblique;
+
+}
+
+.material-existence:hover {
+	color: dimgray;
+    font-size: x-large;
+    font-style: oblique;
+
+}
+
+.wineoilsugar:hover {
+	 color: sandybrown;
+    background:saddlebrown;
+
+}
+
+.hugebright-kitchen:hover {
+	background-color: beige;
+    color: saddlebrown;
+    font-size: xx-large;
+}
+
+.blue-tiles:hover {
+    background-color: aliceblue;
+    color: deepskyblue;
+    font-style: oblique;
+
+  }
+
+
+.heraldic-emblems:hover {
+	background: light lightpink;
+	font-style: oblique;
+}
+
+ .china-plates:hover {
+    background: lightblue;
+  }
+
+.arabesques:hover {
+    background-color: black;
+    font-style:italic;
+  }
+
+.cupboardseverywhere:hover {
+    font-style:oblique;
+    font-weight: 700;
+  }
+
+ .whitewood-table:hover {
+    color: antiquewhite;
+    background-color: black;
+    font-style: oblique;
+  }
+
+.stools:hover {
+    font-weight: 400;
+    font-style: italic;
+  }
+
+.bench-seats:hover {
+    background-color: saddlebrown;
+    color:black;
+    font-style: oblique;
+  }
+
+.pleasant:hover {
+    color: mediumblue;
+    font-size: smaller;
+  }
+
+.scarcely-dressed:hover {
+    color: black;
+    font-weight: 700;
+    font-style:italic;
+  } 
+
+.sizeable-stonewarebutter-dish:hover {
+    background-color: rosybrown;
+  }
+
+.jars-marmalade:hover {
+    color: darkorange;
+    font-style:italic;
+  }
+
+.honey:hover  {
+    color:goldenrod;
+    font-style:oblique;
+  }
+
+.toast:hover {
+    color:rosybrown;
+    background-color: beige;
+    font-style: oblique;
+  }
+
+.grapefruit-cut:hover {
+    background-color: lightgoldenrodyellow;
+    color: orangered;
+  }
+
+.early:hover {
+    background-color: lightcoral ;
+    font-style: oblique;
+  }
+
+.may:hover {
+    color: mediumspringgreen;
+    font-style: oblique;
+  }
+
+.alongsummersday:hover {
+    color: deepskyblue;
+    background-color: lightyellow;
+  }
